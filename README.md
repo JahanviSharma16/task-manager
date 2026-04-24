@@ -218,31 +218,7 @@ task-manager/
 - **Filter Tasks**: Use filter buttons to view by status
 - **Delete Tasks**: Click the delete button with confirmation
 
-## 🚀 Deployment
 
-### Frontend (Vercel/Netlify)
-```bash
-# Build for production
-cd frontend
-npm run build
-
-# Deploy the dist/ folder
-```
-
-### Backend (Heroku/Railway)
-```bash
-# Set environment variables
-# Configure MongoDB connection
-# Deploy the backend
-```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📝 License
 
