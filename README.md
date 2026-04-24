@@ -248,20 +248,6 @@ npm run build
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- React team for the amazing framework
-- Tailwind CSS for the utility-first CSS framework
-- MongoDB for the flexible database solution
-- All contributors and users of this project
-
-## 📞 Support
-
-If you have any questions or issues, please:
-- Open an issue on GitHub
-- Contact the project maintainer
-- Check the documentation
-
 ---
 
 **Built with ❤️ by Jahanvi Sharma**
